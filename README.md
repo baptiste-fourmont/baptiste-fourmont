@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @baptiste-fourmont actually Student at Universite de Paris ( L3 ) in Computer Science
+- 👋 Hi, I’m @baptiste-fourmont Student at Universite de Paris ( L3 ) in Computer Science
 - 👀 I’m interested in Informatics, Sports and lot of things
 - 🌱 I’m currently learning C, Java, Ocaml, a bit of Lua
 - 💞️ I’m looking to collaborate on projects
