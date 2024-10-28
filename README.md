@@ -8,7 +8,7 @@
   <div style="margin-right: 5px;" >
     <ul>
       <li>💬 <b>I like to talk about software, cybersecurity things</b>, and History</li>
-      <li>🌱 I'm currently learning <bKubernetes and Rust</b></li>
+      <li>🌱 I'm currently learning <b>Kubernetes and Rust</b></li>
       <li>💻 Do not hesitate to connect with me on <a href="https://www.linkedin.com/in/baptiste-fourmont">Linkedin</a></li>
       <li>☕ Coffee Lover</li>
       <li>🌴 Feel free to contact me</li>
